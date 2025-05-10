@@ -35,8 +35,17 @@ Para lo cual la prueba mide conocimientos de 7° Básico a 2° Medio con los sig
   - Resolución de Ejercicios: [del 1 al 12 en el ensayo del 2022](Ensayos/ensayo_matematica_2022.pdf), [1 a la 19 del ensayo de 2023](Ensayos/ensayo_matematica_2023.pdf), [1 a la 23 del ensayo de 2024](Ensayos/ensayo_matematica_2024.pdf) y también [1 a la 23 del ensayo de 2025](Ensayos/ensayo_matematica_2025.pdf)
 
   - Operaciones de conjuntos enteros y racionales. Resolviendo problemas
+    * [Suma de fracciones](https://www.geogebra.org/m/mq3nzzbw)
+    * [Resta de fracciones](https://www.geogebra.org/m/un8tqtdm)
+    * [Multiplicación y División de Fracciones](https://www.geogebra.org/m/Hhm3CtW3)
   - Concepto y cálculo de porcentajes
+    * [Conversión de Porcentaje a Decimal y viceversa](https://www.geogebra.org/m/eme5dx5j)
+    * [Cálculo de porcentaje de una cantidad](https://www.geogebra.org/m/f7bs3a4y)
+
   - Propiedades y desarrollo de potencias y raíces
+    * [Ejemplos de la vida diaria](https://www.geogebra.org/m/r6543ceu)
+    * [Cinco propiedades de las potencias](https://www.geogebra.org/m/qrtwvy3z)
+    * [Cuatro propiedades de las raíces](https://www.matesfacil.com/ESO/potencias/resueltos-potencias-raices.html)
   
 
 
