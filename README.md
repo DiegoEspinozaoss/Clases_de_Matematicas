@@ -1,9 +1,5 @@
 # Preparación de Matematicas
-En este curso tomaremos recursos interactivos y también ejercicios por contenidos de los diferentes bloques de la prueba PAES M1.
-
-# Temario de la prueba:
-
-Esta prueba evalúa habilidades referida a las bases curriculares que son:
+En este curso tomaremos recursos interactivos y también ejercicios por contenidos de los diferentes bloques de la prueba PAES M1. Esta prueba evalúa habilidades referida a las bases curriculares que son:
 
 A. Resolver problemas
   - Resolver operatoria y procedimientos básicos
