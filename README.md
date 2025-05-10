@@ -31,7 +31,7 @@ D. Argumentar
 
 Para lo cual la prueba mide conocimientos de 7° Básico a 2° Medio con los siguientes ejes temáticos:
 
-1. Números: 
+# 1. Números: 
   - Resolución de Ejercicios: [del 1 al 12 en el ensayo del 2022](Ensayos/ensayo_matematica_2022.pdf), [1 a la 19 del ensayo de 2023](Ensayos/ensayo_matematica_2023.pdf), [1 a la 23 del ensayo de 2024](Ensayos/ensayo_matematica_2024.pdf) y también [1 a la 23 del ensayo de 2025](Ensayos/ensayo_matematica_2025.pdf)
 
   - Operaciones de conjuntos enteros y racionales. Resolviendo problemas
@@ -50,7 +50,7 @@ Para lo cual la prueba mide conocimientos de 7° Básico a 2° Medio con los sig
 
 
     
-2. Álgebra y Funciones
+# 2. Álgebra y Funciones
   - Resolución de Ejercicios: [del 13 al 35 en el ensayo del 2022](Ensayos/ensayo_matematica_2022.pdf), [20 a la 38 del ensayo de 2023](Ensayos/ensayo_matematica_2023.pdf), [24 a la 42 del ensayo de 2024](Ensayos/ensayo_matematica_2024.pdf) y también [24 a la 44 del ensayo de 2025](Ensayos/ensayo_matematica_2025.pdf)
 
   - Productos notables y factorización algebraica
@@ -61,7 +61,7 @@ Para lo cual la prueba mide conocimientos de 7° Básico a 2° Medio con los sig
   - Concepto de gráficos y problema de funciones lineales y afín
   - funciones cuadráticas, problemas, gráficos y puntos especiales
     
-3. Geometría
+# 3. Geometría
   - Resolución de Ejercicios: [del 36 al 50 en el ensayo del 2022](Ensayos/ensayo_matematica_2022.pdf), [39 a la 53 del ensayo de 2023](Ensayos/ensayo_matematica_2023.pdf), [43 a la 53 del ensayo de 2024](Ensayos/ensayo_matematica_2024.pdf) y también [57 a la 65 del ensayo de 2025](Ensayos/ensayo_matematica_2025.pdf)
 
   - Pitágoras, perímetros, áreas y problemas en triángulos, paralelogramos, trapecios
@@ -69,7 +69,7 @@ Para lo cual la prueba mide conocimientos de 7° Básico a 2° Medio con los sig
   - Áreas, volúmenes y problemas de prismas rectos
   - Transformaciones isométricas
     
-4. Probabilidades
+# 4. Probabilidades
   - Resolución de Ejercicios: [del 51 al 65 en el ensayo del 2022](Ensayos/ensayo_matematica_2022.pdf), [54 a la 65 del ensayo de 2023](Ensayos/ensayo_matematica_2023.pdf), [54 a la 65 del ensayo de 2024](Ensayos/ensayo_matematica_2024.pdf) y también [47 a la 55 del ensayo de 2025](Ensayos/ensayo_matematica_2025.pdf)
 
   - Tablas, gráficos y problemas
