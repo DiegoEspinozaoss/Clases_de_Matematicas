@@ -31,12 +31,17 @@ D. Argumentar
 
 Para lo cual la prueba mide conocimientos de 7° Básico a 2° Medio con los siguientes ejes temáticos:
 
-1. Números
+1. Números:
+
   - Operaciones de conjuntos enteros y racionales. Resolviendo problemas
   - Concepto y cálculo de porcentajes
   - Propiedades y desarrollo de potencias y raíces
+  - Resolver ejercicios: [del 1 al 12 en el ensayo del 2022](Ensayos/ensayo_matematica_2022.pdf), [1 a la 19 del ensayo de 2023](Ensayos/ensayo_matematica_2023.pdf), [1 a la 23 del ensayo de 2024](Ensayos/ensayo_matematica_2024.pdf) y también [1 a la 23 del ensayo de 2025](Ensayos/ensayo_matematica_2025.pdf)
+
+
     
 2. Álgebra y Funciones
+
   - Productos notables y factorización algebraica
   - Operatoria y problemas de expresiones
   - Concepto y problemas de proporciones directas e inversas
@@ -46,12 +51,14 @@ Para lo cual la prueba mide conocimientos de 7° Básico a 2° Medio con los sig
   - funciones cuadráticas, problemas, gráficos y puntos especiales
     
 3. Geometría
+
   - Pitágoras, perímetros, áreas y problemas en triángulos, paralelogramos, trapecios
   y círculos
   - Áreas, volúmenes y problemas de prismas rectos
   - Transformaciones isométricas
     
 4. Probabilidades
+
   - Tablas, gráficos y problemas
   - Medidas y problemas de medidas de grupos de datos
   - Cuartiles y percentiles, diagrama cajón, problemas
