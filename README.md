@@ -45,12 +45,25 @@ Para lo cual la prueba mide conocimientos de 7° Básico a 2° Medio con los sig
   y también [1 a la 23 del ensayo de 2025](Ensayos/ensayo_matematica_2025.pdf)
 
   - Operaciones de conjuntos enteros y racionales. Resolviendo problemas
+    * [Regla de los signos]()
+    * [Orden de importancia de las operaciones aritméticas]()
+    * [Mínimo Común Múltiplo]()
+    * [Máximo Común Divisor]()
+    * [Amplificación]()
+    * [Simplificación]()
+    * [Orden y Comparación de fracciones]()
+    * [Fracciones irreductibles y equivalentes]()
+    * [Representación Decimal de fracciones]()
+    * [Representación fraccionaria de decimales]()
     * [Suma de fracciones](https://www.geogebra.org/m/mq3nzzbw)
     * [Resta de fracciones](https://www.geogebra.org/m/un8tqtdm)
     * [Multiplicación y División de Fracciones](https://www.geogebra.org/m/Hhm3CtW3)
   - Concepto y cálculo de porcentajes
     * [Conversión de Porcentaje a Decimal y viceversa](https://www.geogebra.org/m/eme5dx5j)
     * [Cálculo de porcentaje de una cantidad](https://www.geogebra.org/m/f7bs3a4y)
+    * [Porcentaje de un Porcentaje]()
+    * [Porcentaje y la regla de 3]()
+    * [Aumento y Disminución de Porcentajes]()
 
   - Propiedades y desarrollo de potencias y raíces
     * [Ejemplos de la vida diaria](https://www.geogebra.org/m/r6543ceu)
