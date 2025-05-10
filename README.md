@@ -1,5 +1,6 @@
 # Preparación de Matematicas
 
+Escanea este codigo QR para poder visualizar el plan de trabajo y los ejercicios con sus soluciones a lo largo del semestre. 
 <p align="center">
   <img src="github_qr.png" alt="Alt text" width="400" height="400">
 </p>
