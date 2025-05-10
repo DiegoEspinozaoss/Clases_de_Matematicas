@@ -32,7 +32,7 @@ D. Argumentar
 Para lo cual la prueba mide conocimientos de 7° Básico a 2° Medio con los siguientes ejes temáticos:
 
 # 1. Números: 
-  - Resolución de Ejercicios: [1 a la 12 ensayo 2023](https://docs.google.com/viewer?url=https://raw.githubusercontent.com/DiegoEspinozaoss/Clases_de_Matematicas/main/Ensayos/ensayo_matematica_2023.pdf)
+  - Resolución de Ejercicios: [del 1 al 12 en el ensayo del 2022](Ensayos/ensayo_matematica_2022.pdf), 
   [1 a la 19 del ensayo de 2023](Ensayos/ensayo_matematica_2023.pdf), 
   [1 a la 23 del ensayo de 2024](Ensayos/ensayo_matematica_2024.pdf) 
   y también [1 a la 23 del ensayo de 2025](Ensayos/ensayo_matematica_2025.pdf)
