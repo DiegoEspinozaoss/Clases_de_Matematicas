@@ -3,27 +3,22 @@ En este curso tomaremos recursos interactivos y también ejercicios por contenid
 
 # Temario de la prueba:
 
-TEMARIO DE LA PAES M1
-
 Esta prueba evalúa habilidades referida a las bases curriculares que son:
+
 A. Resolver problemas
-B. Modelar
-C. Representar
-D. Argumentar
-A.- - Resolver problemas
 - Resolver operatoria y procedimientos básicos
 - Utilizar estrategias para soluciones
 - Evaluar validez de resultados
-B.- Modelar
+B. Modelar
 - Usar modelos Matemáticos
 - Poder interpretar soluciones de modelos
 - Ajustar modelos a soluciones
 - Evaluar modelos según solución
-C.- Representar
+C. Representar
 - Poder traducir de lenguaje natural a Matemático
 - Interpretar representaciones de situaciones
 - Poder transferir situaciones a distintos sistemas
-D.- Argumentar
+D. Argumentar
 - Evaluar validez de argumentos propuestos
 - Identificar errores en procedimientos matemáticos
 
