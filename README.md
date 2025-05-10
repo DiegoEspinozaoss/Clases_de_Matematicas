@@ -1,4 +1,10 @@
 # Preparación de Matematicas
+
+<p align="center">
+  <img src="https://github.com/DiegoEspinozaoss/Clases_de_Matematicas/github_qr.png/" alt="Alt text" width="2500" height="800">
+</p>
+
+
 En este curso tomaremos recursos interactivos y también ejercicios por contenidos de los diferentes bloques de la prueba PAES M1. Esta prueba evalúa habilidades referida a las bases curriculares que son:
 
 A. Resolver problemas
