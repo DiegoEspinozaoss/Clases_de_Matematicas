@@ -31,11 +31,11 @@ D.- Argumentar
 
 Para lo cual la prueba mide conocimientos de 7° Básico a 2° Medio con los siguientes ejes temáticos:
 
-1.- Números
+1. Números
   - Operaciones de conjuntos enteros y racionales. Resolviendo problemas
   - Concepto y cálculo de porcentajes
   - Propiedades y desarrollo de potencias y raíces
-2.- Álgebra y Funciones
+2. Álgebra y Funciones
   - Productos notables y factorización algebraica
   - Operatoria y problemas de expresiones
   - Concepto y problemas de proporciones directas e inversas
@@ -43,12 +43,12 @@ Para lo cual la prueba mide conocimientos de 7° Básico a 2° Medio con los sig
   - Solución y problemas de sistemas de ecuaciones 2x2
   - Concepto de gráficos y problema de funciones lineales y afín
   - funciones cuadráticas, problemas, gráficos y puntos especiales
-3.- Geometría
+3. Geometría
   - Pitágoras, perímetros, áreas y problemas en triángulos, paralelogramos, trapecios
   y círculos
   - Áreas, volúmenes y problemas de prismas rectos
   - Transformaciones isométricas
-4.- Probabilidades
+4. Probabilidades
   - Tablas, gráficos y problemas
   - Medidas y problemas de medidas de grupos de datos
   - Cuartiles y percentiles, diagrama cajón, problemas
