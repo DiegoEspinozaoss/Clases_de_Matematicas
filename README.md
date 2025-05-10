@@ -1,7 +1,7 @@
 # Preparación de Matematicas
 
 <p align="center">
-  <img src="https://github.com/DiegoEspinozaoss/Clases_de_Matematicas/github_qr.png/" alt="Alt text" width="2500" height="800">
+  <img src="https://github.com/DiegoEspinozaoss/Clases_de_Matematicas/github_qr.png?raw=true" alt="Alt text" width="1500" height="400">
 </p>
 
 
