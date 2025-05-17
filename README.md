@@ -109,8 +109,18 @@ Para lo cual la prueba mide conocimientos de 7° Básico a 2° Medio con los sig
   - Probabilidades y reglas aditivas y multiplicativas
 
 
+---
+# Calendario:
 
-Calendario:
 10 de Mayo: Hoy hicimos una serie de tres ejercicios de PAES M1 relacionados al primer bloque, y además, hicimos 20 ejercicios relacionados a potencias. 
 
 17 de Mayo: Hoy haremos una serie de 20 ejercicios de práctica y unos tres o cuatro ejercicios adicionales de PAES: 4, 5 del primero, 1 y 2 del segundo. Además, [haremos 10 ejercicios de --> aqui](https://www.calcularporcentajeonline.com/problemas/faciles/problemas-resueltos-calcular-porcentajes-ejemplos-explicados-solucion-regla-tres.html) 
+
+
+Este proyecto sigue el enfoque propuesto por Smith [^1](#ref1).
+
+
+## Bibliografía
+
+1. <a id="ref1"></a> Smith, J. (2020). *Introduction to AI*. Journal of Artificial Intelligence, 15(3), 123–145.
+
