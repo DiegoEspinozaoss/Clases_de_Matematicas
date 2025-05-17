@@ -1,4 +1,4 @@
-Este proyecto sigue el enfoque propuesto por Smith<sup>[<a href="#ref1">1</a>]</sup>.
+
 
 
 # Preparación de Matematicas
@@ -117,12 +117,18 @@ Para lo cual la prueba mide conocimientos de 7° Básico a 2° Medio con los sig
 
 10 de Mayo: Hoy hicimos una serie de tres ejercicios de PAES M1 relacionados al primer bloque, y además, hicimos 20 ejercicios relacionados a potencias. 
 
-17 de Mayo: Hoy haremos una serie de 20 ejercicios de práctica y unos tres o cuatro ejercicios adicionales de PAES: 4, 5 del primero, 1 y 2 del segundo. Además, [haremos 10 ejercicios de --> aqui](https://www.calcularporcentajeonline.com/problemas/faciles/problemas-resueltos-calcular-porcentajes-ejemplos-explicados-solucion-regla-tres.html) 
+17 de Mayo: 
+
+-[Ejemplo de Potencias](https://matcon.cmmedu.uchile.cl/situacion/apoyos-para-la-planificacion-y-gestion/?s=arbol-bronquial&c=2)
+-[Ejemplo 1 de Porcentaje](https://svalbardi.com/blogs/water/percentage)
+-[Ejemplo 2 de Porcentaje]https://raw.githubusercontent.com/DiegoEspinozaoss/Clases_de_Matematicas/main/ensayo_matematica_2022.pdf
+
+Hoy haremos una serie de 20 ejercicios de práctica y unos tres o cuatro ejercicios adicionales de PAES: 4, 5 del primero, 1 y 2 del segundo. Además, [haremos 10 ejercicios de --> aqui](https://www.calcularporcentajeonline.com/problemas/faciles/problemas-resueltos-calcular-porcentajes-ejemplos-explicados-solucion-regla-tres.html) 
 
 
 
 
-
+Este proyecto sigue el enfoque propuesto por Smith<sup>[<a href="#ref1">1</a>]</sup>.
 ## Bibliografía
 
 1. <a id="ref1"></a> Smith, J. (2020). *Introduction to AI*. Journal of Artificial Intelligence, 15(3), 123–145.
