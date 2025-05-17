@@ -121,7 +121,7 @@ Para lo cual la prueba mide conocimientos de 7° Básico a 2° Medio con los sig
 
 -[Ejemplo de Potencias](https://matcon.cmmedu.uchile.cl/situacion/apoyos-para-la-planificacion-y-gestion/?s=arbol-bronquial&c=2)
 -[Ejemplo 1 de Porcentaje](https://svalbardi.com/blogs/water/percentage)
--[Ejemplo 2 de Porcentaje](https://github.com/DiegoEspinozaoss/Clases_de_Matematicas/mainWhatsApp Image 2025-05-17 at 08.36.45.jpeg)
+-[Ejemplo 2 de Porcentaje](https://github.com/DiegoEspinozaoss/Clases_de_Matematicas/main/WhatsApp Image 2025-05-17 at 08.36.45.jpeg)
 
 Hoy haremos una serie de 20 ejercicios de práctica y unos tres o cuatro ejercicios adicionales de PAES: 4, 5 del primero, 1 y 2 del segundo. Además, [haremos 10 ejercicios de --> aqui](https://www.calcularporcentajeonline.com/problemas/faciles/problemas-resueltos-calcular-porcentajes-ejemplos-explicados-solucion-regla-tres.html) 
 
