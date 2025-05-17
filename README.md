@@ -1,4 +1,4 @@
-Este proyecto sigue el enfoque propuesto por Smith[1](#ref1).
+Este proyecto sigue el enfoque propuesto por Smith<sup>[<a href="#ref1">1</a>]</sup>.
 
 
 # Preparación de Matematicas
