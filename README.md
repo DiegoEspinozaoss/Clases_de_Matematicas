@@ -127,6 +127,15 @@ Hoy haremos una serie de 20 ejercicios de práctica y unos tres o cuatro ejercic
 
 
 
+24 de Mayo:
+-[Ejemplos de Porcentajes](1)
+-[Ejemplos de Porcentajes](2)
+-[Ejemplos de Porcentajes](3)
+
+-5 ejercicios de calculo de cantidades de porcentajes.
+-5 ejercicios de porcentajes de porcentajes
+-5 ejercicios porcentajes de paes
+
 
 Este proyecto sigue el enfoque propuesto por Smith<sup>[<a href="#ref1">1</a>]</sup>.
 ## Bibliografía
