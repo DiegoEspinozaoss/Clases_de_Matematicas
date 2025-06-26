@@ -2,18 +2,20 @@ En esta carpeta iremos agregando todas las clases para la preparación de la pru
 
 ## 📅 Detalle de Clases y Tarifas (Julio - Noviembre 2025)
 
-- Clases: 2 por semana
-- Duración: 1.5 horas por clase
-- Valor hora: $15.000 CLP
-- Valor por clase: $22.500 CLP## 📅 Detalle de Clases y Tarifas (Julio - Noviembre 2025)
+# Carga horaria
 
 - Clases: 2 por semana
 - Duración: 1.5 horas por clase
+- Horas por semana: 3.0 h  
+- Horas por mes: entre 12 y 13.5 h
+- Total horas: 66
+
+# Plan de Precios 
+
 - Valor hora: $15.000 CLP
 - Valor por clase: $22.500 CLP
 - Total semanas: 22
 - Total clases: 44
-- Total horas: 66
 - Total general: **$990.000 CLP**
 
 ---
@@ -29,12 +31,5 @@ En esta carpeta iremos agregando todas las clases para la preparación de la pru
 | **Total**      | **44**           | **66.0**  | **$990.000**|                                                                                                        |
 
 ---
-
-### ⏱ Detalles de carga horaria
-
-- **Horas por clase**: 1.5 h  
-- **Clases por semana**: 2  
-- **Horas por semana**: 3.0 h  
-- **Horas por mes**: entre 12 y 13.5 h
 
 ---
