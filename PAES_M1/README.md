@@ -136,6 +136,9 @@ Hoy haremos una serie de 20 ejercicios de práctica y unos tres o cuatro ejercic
 -5 ejercicios de porcentajes de porcentajes
 -5 ejercicios porcentajes de paes
 
+Sábado 12 de Julio: serie de ejercicios de algebra (productos notables: sumas por diferencias, cuadrados de binomios y demás).
+
+Sábado 17 de Julio: más ejercicios de álgebra
 
 Este proyecto sigue el enfoque propuesto por Smith<sup>[<a href="#ref1">1</a>]</sup>.
 ## Bibliografía
