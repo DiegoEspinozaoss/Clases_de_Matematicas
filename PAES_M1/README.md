@@ -138,7 +138,7 @@ Hoy haremos una serie de 20 ejercicios de práctica y unos tres o cuatro ejercic
 
 Sábado 12 de Julio: serie de ejercicios de algebra (productos notables: sumas por diferencias, cuadrados de binomios y demás).
 
-Sábado 17 de Julio: más ejercicios de álgebra: 24 y 25 de 2025, 24, 25, 27 del 2024, 22, 23, 24 del 2023:
+
 
 ## Clase de Álgebra – Sábado 17 de Julio
 
@@ -148,7 +148,7 @@ En esta clase trabajaremos con ejercicios de álgebra seleccionados de distintos
 - Factorización.
 - Manipulación de expresiones con paréntesis anidados.
 
-Los ejercicios están agrupados por tipo, con 20 ejercicios de factorización al final.
+Los ejercicios están agrupados por tipo, con 20 ejercicios de factorización al final. Además podríamos hacer algunos de los ejercicios de álgebra de algunos ensayos: 24 y 25 de 2025, 24, 25, 27 del 2024, 22, 23, 24 del 2023:
 
 ---
 
