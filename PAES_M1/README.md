@@ -138,7 +138,94 @@ Hoy haremos una serie de 20 ejercicios de práctica y unos tres o cuatro ejercic
 
 Sábado 12 de Julio: serie de ejercicios de algebra (productos notables: sumas por diferencias, cuadrados de binomios y demás).
 
-Sábado 17 de Julio: más ejercicios de álgebra
+Sábado 17 de Julio: más ejercicios de álgebra: 24 y 25 de 2025, 24, 25, 27 del 2024, 22, 23, 24 del 2023:
+
+\begin{center}
+    {\LARGE \textbf{Guía de ejercicios — Álgebra simbólica}}\\
+    \large Sábado 19 de julio de 2025
+\end{center}
+
+\vspace{0.5cm}
+
+\section*{I. Desarrollo de productos notables}
+
+\subsection*{1. Cuadrados de binomios — Desarrollar}
+\begin{enumerate}[label=\arabic*.]
+    \item \((a + 3)^2\)
+    \item \((x - 5)^2\)
+    \item \((2y + 1)^2\)
+    \item \((m - n)^2\)
+    \item \((p + 4q)^2\)
+\end{enumerate}
+
+\subsection*{2. Productos suma por diferencia — Desarrollar}
+\begin{enumerate}[start=6,label=\arabic*.]
+    \item \((x + 2)(x - 2)\)
+    \item \((a + b)(a - b)\)
+    \item \((3m + 1)(3m - 1)\)
+    \item \((2p + 5)(2p - 5)\)
+    \item \((y + 7)(y - 7)\)
+\end{enumerate}
+
+\subsection*{3. Paréntesis dentro de paréntesis: suma por suma — Desarrollar}
+\begin{enumerate}[start=11,label=\arabic*.]
+    \item \((x + (a + b))(x + (a - b))\)
+    \item \((p + (q + 1))(p + (q - 1))\)
+    \item \((m + (2n + 3))(m + (2n - 3))\)
+    \item \((y + (x + 2))(y + (x - 2))\)
+    \item \((r + (s + t))(r + (s - t))\)
+\end{enumerate}
+
+\subsection*{4. Paréntesis dentro de paréntesis: suma por diferencia — Desarrollar}
+\begin{enumerate}[start=16,label=\arabic*.]
+    \item \((x + (a + b))(x - (a + b))\)
+    \item \((p + (q - 1))(p - (q - 1))\)
+    \item \((m + (2n - 3))(m - (2n - 3))\)
+    \item \((y + (x + 2))(y - (x + 2))\)
+    \item \((r + (s - t))(r - (s - t))\)
+\end{enumerate}
+
+\newpage
+
+\section*{II. Ejercicios de factorización}
+
+\subsection*{1. Sumas por diferencias — Factorizar}
+\begin{enumerate}[label=\arabic*.]
+    \item \(x^2 - 9\)
+    \item \(a^2 - b^2\)
+    \item \(4p^2 - 25\)
+    \item \(49y^2 - 1\)
+    \item \(100t^2 - 16\)
+\end{enumerate}
+
+\subsection*{2. Cuadrados de binomios en reversa — Factorizar}
+\begin{enumerate}[start=6,label=\arabic*.]
+    \item \(x^2 + 6x + 9\)
+    \item \(a^2 - 10a + 25\)
+    \item \(4m^2 + 12m + 9\)
+    \item \(y^2 - 14y + 49\)
+    \item \(9x^2 - 24x + 16\)
+\end{enumerate}
+
+\subsection*{3. Trinomios cuadráticos simples — Factorizar}
+\begin{enumerate}[start=11,label=\arabic*.]
+    \item \(x^2 + 5x + 6\)
+    \item \(m^2 - 7m + 10\)
+    \item \(y^2 + y - 12\)
+    \item \(z^2 - 3z - 10\)
+    \item \(a^2 + 2a - 15\)
+\end{enumerate}
+
+\subsection*{4. Trinomios con coeficiente principal distinto de 1 — Factorizar}
+\begin{enumerate}[start=16,label=\arabic*.]
+    \item \(2x^2 + 7x + 3\)
+    \item \(3m^2 - 2m - 1\)
+    \item \(4y^2 + 4y - 3\)
+    \item \(5p^2 - 5p - 6\)
+    \item \(6a^2 + 11a + 3\)
+\end{enumerate}
+
+
 
 Este proyecto sigue el enfoque propuesto por Smith<sup>[<a href="#ref1">1</a>]</sup>.
 ## Bibliografía
