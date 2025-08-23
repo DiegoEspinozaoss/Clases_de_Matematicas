@@ -34,10 +34,10 @@ Modela cada situación con un sistema de ecuaciones:
 Resuelve los sistemas planteados en la **Actividad 1** usando **método de sustitución**.  
 
 Ejemplo guía (para repasar en la pizarra):  
-\[
+$$
 2x + y = 10 \\
 x - y = 2
-\]  
+$$  
 
 1. Despejar una variable (ej: \(x = y+2\)).  
 2. Sustituir en la otra ecuación.  
@@ -64,16 +64,16 @@ Seleccionados del ensayo 2023:
 
 4. **Pregunta 32 (Intersección de rectas):**  
    Hallar el punto de intersección de las rectas:  
-   \[
+   $$
    2y - 3x = -4 \\
    3x - y = 0
-   \]  
+   $$  
 
 5. **Pregunta 33 (Ecuación cuadrática):**  
    Resuelve:  
-   \[
+   $$
    2x^2 + 12x - 35 = 0
-   \]
+   $$
 
 ---
 
