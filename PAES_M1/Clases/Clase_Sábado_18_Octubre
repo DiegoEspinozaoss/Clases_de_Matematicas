@@ -1,0 +1,146 @@
+# Clase de Geometría – Teorema de Pitágoras, Áreas de Triángulos y Volúmenes
+
+## 🧭 Objetivos de la clase
+- Aplicar el **Teorema de Pitágoras** para calcular lados desconocidos en triángulos rectángulos.  
+- Utilizar dicho teorema para **calcular áreas y perímetros de triángulos**.  
+- Calcular **volúmenes de cuerpos geométricos simples**: cubos, paralelepípedos y cilindros.  
+- Resolver problemas geométricos aplicados a contextos reales.
+
+---
+
+## ⏰ Estructura de la clase (120 minutos)
+
+### 🔹 Primera hora (60 minutos)
+**Tema:** Teorema de Pitágoras y cálculo de áreas y perímetros de triángulos.
+
+---
+
+### 🧩 Parte 1 – Ejercicios de Teorema de Pitágoras (10 ejercicios)
+
+1. Calcula la hipotenusa de un triángulo rectángulo cuyos catetos miden 6 cm y 8 cm.  
+2. Calcula la hipotenusa de un triángulo con catetos de 5 cm y 12 cm.  
+3. Determina el cateto faltante si la hipotenusa mide 13 cm y un cateto 5 cm.  
+4. Halla el cateto faltante si \( c = 10 \) cm y \( b = 8 \) cm.  
+5. Un triángulo rectángulo tiene área 24 cm² y un cateto de 6 cm. Encuentra los otros lados.  
+6. Una escalera toca una pared a 3 m de altura y su base está a 4 m de la pared. ¿Qué longitud tiene la escalera?  
+7. Un triángulo rectángulo tiene hipotenusa 25 cm y un cateto 24 cm. Halla el otro cateto.  
+8. Calcula la diagonal de un rectángulo de 9 cm de base y 12 cm de altura.  
+9. Un televisor tiene una pantalla de 32 cm de alto y 18 cm de ancho. Determina su diagonal.  
+10. Una bandera tiene forma triangular con base 10 m y altura 8 m. Calcula la longitud de la hipotenusa.
+
+---
+
+### 🧩 Parte 2 – Áreas y perímetros de triángulos usando Pitágoras (10 ejercicios)
+
+Usa las fórmulas:
+\[
+A = \frac{b \cdot h}{2}
+\]
+\[
+P = a + b + c
+\]
+y, si falta un lado, aplica primero el Teorema de Pitágoras.
+
+1. Triángulo rectángulo con catetos de 3 cm y 4 cm. Calcula su área y perímetro.  
+2. Triángulo rectángulo con catetos de 7 cm y 24 cm. Calcula su área y perímetro.  
+3. Triángulo con hipotenusa 10 cm y un cateto de 8 cm. Halla el área y perímetro.  
+4. Triángulo con área 30 cm² y base 10 cm. Halla la altura.  
+5. Triángulo rectángulo con cateto mayor 12 cm y cateto menor 5 cm. Calcula \(A\) y \(P\).  
+6. Un triángulo isósceles tiene lados iguales de 10 cm y base de 12 cm. Halla su altura, área y perímetro.  
+7. Un triángulo equilátero de lado 8 cm. Calcula la altura (usando Pitágoras), el área y el perímetro.  
+8. Triángulo rectángulo con perímetro 60 cm y catetos de 9 cm y 12 cm. Verifica el área.  
+9. Triángulo rectángulo con hipotenusa 17 cm y cateto 8 cm. Calcula el área y el otro cateto.  
+10. Un triángulo isósceles tiene base 16 cm y lados iguales de 10 cm. Calcula la altura, área y perímetro.
+
+---
+
+### 🧮 Fórmulas de repaso
+- **Pitágoras:** \( a^2 + b^2 = c^2 \)  
+- **Área del triángulo:** \( A = \frac{b \cdot h}{2} \)  
+- **Perímetro del triángulo:** \( P = a + b + c \)
+
+---
+
+### 🔹 Segunda hora (60 minutos)
+**Tema:** Cálculo de volúmenes de cubos, paralelepípedos y cilindros.
+
+---
+
+## 🧊 Parte 3 – Volúmenes de cubos (10 ejercicios)
+
+Usa la fórmula:
+\[
+V = a^3
+\]
+
+1. Un cubo de arista 2 cm.  
+2. Un cubo de arista 5 cm.  
+3. Un cubo con arista 10 cm.  
+4. Un cubo con volumen 64 cm³. Calcula la arista.  
+5. Un cubo con arista 7 cm. Calcula el volumen y área total.  
+6. Una caja cúbica de 30 cm de lado. Halla su volumen en litros.  
+7. Un cubo con volumen 216 cm³. ¿Cuánto mide su arista?  
+8. Un dado con lado 4 cm. Calcula su volumen y área total.  
+9. Un cubo con lado 1,2 m. ¿Cuál es su volumen en m³?  
+10. Un cubo tiene el doble de arista que otro. Si el menor tiene volumen 27 cm³, ¿cuál es el volumen del mayor?
+
+---
+
+## 📦 Parte 4 – Volúmenes de paralelepípedos (10 ejercicios)
+
+Usa la fórmula:
+\[
+V = largo \times ancho \times alto
+\]
+
+1. Caja de 3 cm × 4 cm × 5 cm.  
+2. Prisma rectangular de 10 cm × 6 cm × 2 cm.  
+3. Caja con base 5 m × 3 m y altura 2 m.  
+4. Paralelepípedo de 8 cm × 7 cm × 4 cm.  
+5. Prisma de 12 cm × 9 cm × 6 cm.  
+6. Caja con largo 25 cm, ancho 15 cm y alto 10 cm.  
+7. Un prisma tiene volumen 480 cm³ y base 8 cm × 6 cm. Calcula la altura.  
+8. Caja con volumen 360 cm³ y largo 9 cm, ancho 5 cm. Halla el alto.  
+9. Caja rectangular con lados 2 m, 1,5 m y 1 m. Calcula el volumen en litros.  
+10. Prisma con base 10 cm × 4 cm y altura desconocida; volumen = 400 cm³. Halla la altura.
+
+---
+
+## 🧮 Parte 5 – Volúmenes de cilindros (10 ejercicios)
+
+Usa la fórmula:
+\[
+V = \pi r^2 h
+\]
+
+1. Cilindro con radio 3 cm y altura 10 cm.  
+2. Cilindro con radio 5 cm y altura 12 cm.  
+3. Cilindro con radio 2 m y altura 4 m.  
+4. Cilindro con volumen 628 cm³ y radio 5 cm. Halla la altura.  
+5. Cilindro con radio 7 cm y altura 20 cm.  
+6. Un cilindro tiene diámetro 10 cm y altura 8 cm. Calcula su volumen.  
+7. Cilindro con radio 4 cm y volumen 200,96 cm³. Halla la altura.  
+8. Cilindro de 6 cm de radio y 15 cm de altura. Calcula el volumen.  
+9. Cilindro con radio 12 cm y altura 8 cm.  
+10. Un estanque cilíndrico de radio 1,5 m y altura 2,5 m. Calcula su volumen en litros (1 m³ = 1000 L).
+
+---
+
+## 🧾 Cierre de la clase (10–15 minutos)
+- Revisión general de fórmulas: Pitágoras, área, perímetro y volumen.  
+- Actividad final: un ejercicio integrador que combine triángulo + prisma.  
+- Evaluación formativa rápida (oral o mini test).  
+
+---
+
+### ✅ **Resumen de fórmulas**
+| Concepto | Fórmula | Unidad |
+|-----------|----------|--------|
+| Teorema de Pitágoras | \(a^2 + b^2 = c^2\) | cm, m |
+| Área del triángulo | \(A = \frac{b \cdot h}{2}\) | cm², m² |
+| Perímetro del triángulo | \(P = a + b + c\) | cm, m |
+| Volumen del cubo | \(V = a^3\) | cm³, m³ |
+| Volumen del paralelepípedo | \(V = l \times a \times h\) | cm³, m³ |
+| Volumen del cilindro | \(V = \pi r^2 h\) | cm³, m³ |
+
+---
